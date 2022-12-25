@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JuanMoncaleano
 - 👀 I’m interested in finance, technology, coding.
-- 🌱 I’m currently learning data analysis
+- 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me juankamilo992201@gmail.com
 
 <!---
 JuanMoncaleano/JuanMoncaleano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

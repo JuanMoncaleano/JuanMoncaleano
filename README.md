@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JuanMoncaleano
-- 👀 I’m interested in finance, technology and coding.
+- 👀 I’m interested in finance, technology and coding
 - 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me juankamilo992201@gmail.com
 
 <!---
